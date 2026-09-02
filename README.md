@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sahil+Rahman+Pranto%20%F0%9F%91%8B;Aspiring+Full-Stack+Developer;React+%7C+TypeScript+%7C+JavaScript" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi, I'm Sahil Rahman Pranto 👋
 
 ### Aspiring Full-Stack Web Developer | React & JavaScript
