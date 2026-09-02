@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi, I'm Sahil Rahman Pranto 👋
+# Hi, I'm Sahil Rahman Pranto 
 
 ### Aspiring Full-Stack Web Developer | React & JavaScript
 
