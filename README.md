@@ -28,16 +28,15 @@ I build responsive, modern web applications with frontend technologies like Reac
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
 | Project | Description | Live Demo | Repository |
 | :--- | :--- | :--- | :--- |
-| **Bangla Trek** | Travel and trek platform for exploring outdoor locations. | [Live Demo](https://bangla-trek.vercel.app/) | [View Code](https://github.com/srpranto/Blog-Site) |
+| **Bangla Trek** | Travel and trek platform for exploring outdoor locations. | [Live Demo](https://bangla-trek.vercel.app/) | [View Code](https://github.com/srpranto/Bangla-_Trek) |
 | **Kichu-Kini** | E-commerce web layout featuring interactive product components. | [Live Demo](https://kichukini.netlify.app/) | [View Code](https://github.com/srpranto/Kichu-Kini) |
 | **Myntra Clone** | E-commerce frontend replica focusing on store UI design. | [Live Demo](https://myntro.netlify.app/) | [View Code](https://github.com/srpranto/myntra-clone) |
-| **Netflix Clone** | Video streaming web application interface built with web concepts. | [Live Demo](https://netflix-clone-one-zeta-53.vercel.app/) | [View Code](https://github.com/srpranto/test-animation) |
-| **Amazon Bootstrap** | E-commerce homepage clone designed using Bootstrap grid system. | [Live Demo](https://amazon-bootstrap.vercel.app/) | [View Code](https://github.com/srpranto/growth-app-test-) |
-
+| **Netflix Clone** | Video streaming web application interface built with web concepts. | [Live Demo](https://netflix-clone-one-zeta-53.vercel.app/) | [View Code](https://github.com/srpranto/Netflix-Clone) |
+| **Amazon Bootstrap** | E-commerce homepage clone designed using Bootstrap grid system. | [Live Demo](https://amazon-bootstrap.vercel.app/) | [View Code](https://github.com/srpranto/amazon-bootstrap) |
 ---
 
 ## 💫 About Me
