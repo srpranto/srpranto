@@ -30,13 +30,17 @@ I build responsive, modern web applications with frontend technologies like Reac
 
 ### 📌 Featured Projects
 
-| Project | Description | Live Demo | Repository |
-| :--- | :--- | :--- | :--- |
-| **Bangla Trek** | Travel and trek platform for exploring outdoor locations. | [Live Demo](https://bangla-trek.vercel.app/) | [View Code](https://github.com/srpranto/Bangla-_Trek) |
-| **Kichu-Kini** | E-commerce web layout featuring interactive product components. | [Live Demo](https://kichukini.netlify.app/) | [View Code](https://github.com/srpranto/Kichu-Kini) |
-| **Myntra Clone** | E-commerce frontend replica focusing on store UI design. | [Live Demo](https://myntro.netlify.app/) | [View Code](https://github.com/srpranto/myntra-clone) |
-| **Netflix Clone** | Video streaming web application interface built with web concepts. | [Live Demo](https://netflix-clone-one-zeta-53.vercel.app/) | [View Code](https://github.com/srpranto/Netflix-Clone) |
-| **Amazon Bootstrap** | E-commerce homepage clone designed using Bootstrap grid system. | [Live Demo](https://amazon-bootstrap.vercel.app/) | [View Code](https://github.com/srpranto/amazon-bootstrap) |
+| Project                | Description                                                                              | Live Demo                                             | Repository                                                            |
+| :--------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------- | :-------------------------------------------------------------------- |
+| **Book Vibe**          | A modern book discovery and reading platform built with React.                           | [Live Demo](https://book-vibe-shahil.vercel.app/)     | [View Code](https://github.com/srpranto/book-vibelive)                |
+| **Countries Explorer** | Interactive React application for exploring countries, regions, and country information. | [Live Demo](https://countriesexplorer-io.vercel.app/) | [View Code](https://github.com/srpranto/countries-explorer-react-app) |
+| **Bangla Trek**        | Travel and trek platform for exploring outdoor locations in Bangladesh.                  | [Live Demo](https://bangla-trek.vercel.app/)          | [View Code](https://github.com/srpranto/Bangla-_Treklive)             |
+| **Kichu-Kini**         | E-commerce web application featuring interactive product components and shopping UI.     | [Live Demo](https://kichukini.netlify.app/)           | [View Code](https://github.com/srpranto/Kichu-Kini)                   |
+| **Myntra Clone**       | E-commerce frontend replica inspired by the Myntra shopping experience.                  | [Live Demo](https://myntro.netlify.app/)              | [View Code](https://github.com/srpranto/myntra-clone)                 |
+
+---
+
+
 ---
 
 ## 💫 About Me
