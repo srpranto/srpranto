@@ -58,13 +58,19 @@ I build responsive, modern web applications with frontend technologies like Reac
 
 ## 🚀 Learning Roadmap
 
-- ✅ **HTML5 & CSS3**
-- ✅ **Responsive Design, Bootstrap & Tailwind CSS**
-- ✅ **JavaScript (ES6+) & Git Version Control**
-- 🔄 **React & TypeScript** *(In Progress)*
-- ⏳ **Node.js & Express.js**
-- ⏳ **MongoDB**
-- ⏳ **Next.js & Full-Stack Development**
+* ✅ **HTML5 & CSS3**
+* ✅ **Responsive Design, Bootstrap & Tailwind CSS**
+* ✅ **JavaScript (ES6+)**
+* ✅ **Git & GitHub**
+* ✅ **TypeScript**
+* ✅ **React**
+* ✅ **Next.js**
+* ✅ **BetterAuth & MongoDB**
+* ✅ **Next.js Projects & Deployment**
+* ⏳ **Node.js & Express.js**
+* 🔄 **Full-Stack Development**
+
+
 
 ---
 
