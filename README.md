@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# Hi, I'm Sahil Rahman Pranto 
+# Hi, I'm Sahil Rahman Pranto
 
-### Aspiring Full-Stack Web Developer | React & JavaScript
+### Aspiring Full-Stack Web Developer | React, TypeScript & Next.js
 
-I build responsive, modern web applications with frontend technologies like React, JavaScript, and Tailwind CSS while actively working toward full-stack web development.
+I build responsive, modern web applications using React, TypeScript, Next.js, and Tailwind CSS while continuing my journey toward full-stack web development.
 
 ---
 
@@ -40,19 +40,15 @@ I build responsive, modern web applications with frontend technologies like Reac
 
 ---
 
-
-
----
-
 ## 💫 About Me
 
-- 🔭 **Currently working on:** Modular React applications and frontend web projects
-- 🌱 **Currently learning:** Advanced React concepts, TypeScript, and modern state management
-- 🎯 **Goal:** Become a job-ready Full-Stack Web Developer
-- 💻 **Interests:** Frontend Development, UI/UX Design, and Web Systems
-- 💬 **Ask me about:** HTML, CSS, Tailwind CSS, JavaScript, Git, GitHub
-- 📫 **Email:** personalshahil69@gmail.com
-- ⚡ **Fun fact:** I don't always know why my code works, but I definitely know why it stops working at 2 AM.
+* 🔭 **Currently working on:** React and Next.js web applications
+* 🌱 **Currently learning:** Node.js, Express.js, and Full-Stack Development
+* 🎯 **Goal:** Become a job-ready Full-Stack Web Developer
+* 💻 **Interests:** Frontend Development, UI/UX Design, and Web Systems
+* 💬 **Ask me about:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Git, GitHub
+* 📫 **Email:** [personalshahil69@gmail.com](mailto:personalshahil69@gmail.com)
+* ⚡ **Fun fact:** I don't always know why my code works, but I definitely know why it stops working at 2 AM.
 
 ---
 
@@ -69,8 +65,6 @@ I build responsive, modern web applications with frontend technologies like Reac
 * ✅ **Next.js Projects & Deployment**
 * ⏳ **Node.js & Express.js**
 * 🔄 **Full-Stack Development**
-
-
 
 ---
 
